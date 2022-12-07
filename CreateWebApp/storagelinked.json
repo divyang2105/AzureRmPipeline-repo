@@ -13,7 +13,7 @@
                 "displayName": "storageaccount21051990"
             },
             "location": "[resourceGroup().location]",
-            "kind": "StorageV2",
+            "kind": "Storage",
             "sku": {
                 "name": "Standard_GRS",
             }
