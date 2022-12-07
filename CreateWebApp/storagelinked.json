@@ -13,9 +13,9 @@
                 "displayName": "storageaccount21051990"
             },
             "location": "[resourceGroup().location]",
-            "kind": "Storage",
+            "kind": "StorageV2",
             "sku": {
-                "name": "Standard_GRS",
+                "name": "Premium_LRS",
             }
         }
     ],
