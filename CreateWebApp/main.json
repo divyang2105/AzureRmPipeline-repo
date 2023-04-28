@@ -12,7 +12,7 @@
             "location": "[resourceGroup().location]",
             "sku": {
                 "name": "F1",
-                "capacity": 1
+                "capacity": 2
             },
             "tags": {
                 "displayName": "appServicePlan21051990"
